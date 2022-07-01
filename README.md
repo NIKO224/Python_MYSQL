@@ -9,5 +9,7 @@ to make the application it is necessary to have TKinter and mysql connection ins
 to install them:
 
 in cmd
+
 pip install tk
+
 pip install mysql-connector-python
